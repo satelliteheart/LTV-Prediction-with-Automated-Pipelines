@@ -1,0 +1,17 @@
+notebook
+numpy
+pandas
+beautifulsoup4
+black
+boto3
+facebook-business
+google-ads
+google-auth-oauthlib
+googleads
+gspread
+oauth2client
+lxml
+requests
+pyarrow
+mixpanel-utils
+pymysql
