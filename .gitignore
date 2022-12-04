@@ -5,6 +5,7 @@ local_chromedriver/
 *.gz
 .virtual_documents
 # */credentials/
+src/dashboard.jpeg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
