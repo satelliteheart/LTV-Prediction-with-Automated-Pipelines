@@ -108,7 +108,7 @@ tinycss2==1.2.1
 toml==0.10.2
 tomli==2.0.1
 tomlkit==0.11.6
-tornado==6.2
+tornado==6.3.3
 traitlets==5.5.0
 typeguard==2.13.3
 typing_extensions==4.4.0
